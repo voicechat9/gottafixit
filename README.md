@@ -1,6 +1,6 @@
 This repository is no longer maintained and has been archived. For a similar project, please check out https://hypothes.is .
 
-# gottafixit
+# my gottafixit
 Proofread the web for fun and glory.
 
 This repository contains code for the gottafixit server, Google Chrome extension, and the beginnings of a Firefox extension which hasn't been written yet.
